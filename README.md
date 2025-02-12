@@ -19,11 +19,11 @@
 
 ---
 
-### Start api.js file (Port:4000)
+### Start api.js file (Port: 4000)
 ```shell
 nodemon api.js
 ```
-### Start index.js file (Port:3000)
+### Start index.js file (Port: 3000)
 ```shell
 nodemon index.js
 ```
