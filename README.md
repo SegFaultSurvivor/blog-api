@@ -8,7 +8,7 @@
 <img width="1280" alt="Screenshot" src="https://github.com/SegFaultSurvivor/blog-api/blob/52b0dfddd5c76bf7502adcb68cfed6f3ff126bee/public/images/new-post.png"> 
 
 ### 🎥 Watch the Demo Video  
-[Blog API Walkthrough Video](https://via.placeholder.com/1280x720?text=Blog+API+Demo+Video)
+[Blog API Walkthrough Video](https://github.com/SegFaultSurvivor/blog-api/blob/12d90128baa70125afa57ff376eac8055f090d4f/public/images/blog-api.mp4)
 
 ---
 
