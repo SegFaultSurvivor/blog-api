@@ -19,9 +19,12 @@
 
 ---
 
-### Setup .env file
+### Start api.js file (PORT:4000)
+```shell
+nodemon api.js
+```
+### Start index.js file (PORT:3000)
+```shell
+nodemon index.js
+```
 
-Create a `.env` file in the root directory and add the following variables:
-
-```js
-PORT=4000
